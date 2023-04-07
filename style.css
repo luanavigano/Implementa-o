@@ -1,3 +1,30 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho
+    {
     background-color: #584079;
-} he
+    color: antiquewhite;
+    display: flex;
+    padding: 30px;
+    font-size: 30px;
+    justify-content: space-around;
+} 
+.cabecalho-imagem 
+{ 
+    width: 200px;
+    height: 200px;
+}
+.cabecalho-item
+{
+
+}
+body 
+{
+    background-color: #584079;
+}
+header
+{
+    background-color: blueviolet;
+}
